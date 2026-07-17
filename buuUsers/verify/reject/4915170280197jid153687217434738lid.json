@@ -1,0 +1,59 @@
+{
+  "identity": {
+    "bid": "4915170280197jid153687217434738lid",
+    "phone": "+4915170280197",
+    "jid": "4915170280197@s.whatsapp.net",
+    "lid": "153687217434738@lid",
+    "cleanJid": "4915170280197",
+    "cleanLid": "153687217434738"
+  },
+  "status": {
+    "dsgvo": {
+      "accepted": false,
+      "rejected": false,
+      "acceptedAt": null
+    },
+    "verified": false,
+    "unverify": true,
+    "mappedAt": "2026-07-09T16:29:25.852Z",
+    "registeredAt": null
+  },
+  "progression": {
+    "level": 0,
+    "prestige": 0,
+    "xp": 0,
+    "neededXpForLvOrPrestigeUp": 743
+  },
+  "casino": {
+    "gamesPlayed": 0,
+    "lastWin": 0,
+    "totalWin": 0,
+    "highestWin": 0,
+    "winStreak": 0,
+    "highestWinStreak": 0,
+    "lastLoss": 0,
+    "totalLoss": 0,
+    "highestLoss": 0,
+    "lossStreak": 0,
+    "highestLossStreak": 0
+  },
+  "wallet": {
+    "copper": 0,
+    "silver": 0,
+    "gold": 0,
+    "platin": 0
+  },
+  "bank": {
+    "active": false,
+    "copper": 0,
+    "silver": 0,
+    "gold": 0,
+    "platin": 0
+  },
+  "rewards": {
+    "lastDaily": null,
+    "lastWeekly": null,
+    "lastMonthly": null,
+    "lastYearly": null
+  }
+}
